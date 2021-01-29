@@ -1,2 +1,3 @@
 # hello-world
-Aprendendo a aprender
+Aprendendo a aprender.
+É sempre bom renovar conhecimento.
